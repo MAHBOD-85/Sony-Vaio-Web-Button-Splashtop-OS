@@ -14,3 +14,6 @@ Step 3: Open splash.idx in notepad and replace UUIDGOESHERE with your actual UUI
 Step 4: Shut off your laptop, Press the web button and go through the first time wizard (if the browser does not open after that you can reboot)
 
 Step 5: Enjoy this piece of computer history
+
+### Attention
+The installation here has outdated certificates meaning only google.com will work with it. If you can find a way to import more recent certificates send a pull request.

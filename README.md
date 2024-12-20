@@ -16,4 +16,4 @@ Step 4: Shut off your laptop, Press the web button and go through the first time
 Step 5: Enjoy this piece of computer history
 
 ### Attention
-The installation here has outdated browsers meaning only google.com will work with it. If you can find a way to hack in a more recent version send a pull request.
+The installation here has outdated browsers meaning only old compatible sites liem frogfind, google, the old net, etc. will work with it. If you can find a way to hack in a more recent version send a pull request.
